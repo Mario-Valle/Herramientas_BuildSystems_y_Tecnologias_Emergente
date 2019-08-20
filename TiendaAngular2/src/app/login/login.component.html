@@ -1,0 +1,39 @@
+
+<div class="loginContainer">
+  <div class="loginTitle">Inicio de Sesión</div>
+  <br>
+  <form (ngSubmit)="LoginComponent(f)" #f="ngForm">    
+    <div class="form-group fields-Container">
+      <label for="email-input" >Correo Electrónico :</label>
+      <input type="email" class="form-control"  #usuario ngModel name="email" required pattern="[a-z0-9!#$%&'*+/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?">
+      <!--<label class="error" *ngIf="!f.valid && f.touched">Error en el inicio de sesión</label>      -->
+    </div>
+
+    <div class="form-group fields-Container">
+      <label for="password-input">Contraseña</label>
+      <input type="password" class="form-control" #contrasena ngModel name="password" required>
+      <label class="error"></label>
+    </div>
+    
+    <div class="btnIngresar center-block">
+      <button type="button" class="btn-success form-control" 
+      (click)="iniciarSesion(usuario.value, contrasena.value)">Ingresar</button>
+      
+      <!--
+      <input class="btn btn-success btn-sm form-control" value="Ingresar" 
+      (click)="iniciarSesion(usuario.value, contrasena.value)"/>
+    -->
+    </div>
+
+
+
+  </form>
+    <br>
+    <div class="center-block fondo-dark pista">
+      <p >Usuario: ingmvalle@yahoo.com</p>
+      <p>password: 123</p>
+    </div>
+
+    <!--<button type="submit" class="btn btn-success center-block">Enviar</button>-->
+
+</div>
