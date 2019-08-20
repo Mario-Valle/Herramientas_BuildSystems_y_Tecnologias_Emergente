@@ -1,0 +1,147 @@
+{
+  "productos" : [ {
+    "disponible" : 100,
+    "id" : 0,
+    "imagen" : "../../../../assets/aguacate.jpg",
+    "informacion" : "Paradójicamente, el aguacate tiene muchas propiedades, pero no es tan popular como otras frutas. Tal vez se deba a que cuenta con algo de grasa y se cree que no es bueno para bajar de peso o para dietas de deportistas. En el siguiente artículo aprenderás más sobre sus beneficios y 10 razones para comer más aguacate.   Una fruta, muchas propiedades En primer lugar, es válido recalcar que la grasa que contiene el aguacate no es perjudicial. Los aguacates son uno de los mejores alimentos que un deportista puede consumir. Les aporta una gran cantidad de energía y permite que realicen su rutina de ejercicio.  Pero no solo para los que realizan ejercicio, también para los que trabajan en una oficina, los niños, los ancianos, las embarazadas, todos en general. El aguacate ayuda a mejorar los niveles de colesterol y a estabilizar el ritmo cardíaco. Una pieza de esta fruta ofrece grasas monoinsaturadas, ácido oléico y alfa-linoleico (conocido popularmente como ácidos grasos omega 3). A su vez, ayuda en el crecimiento y la reparación de la masa muscular, por contener una buena cantidad de proteínas, potasio y zinc, más que los plátanos. Su aporte de grasas “buenas” aumenta los niveles de testosterona de manera natural.",
+    "nombre" : "Aguacate",
+    "precio" : 20
+  }, {
+    "disponible" : 100,
+    "id" : 1,
+    "imagen" : "../../../../assets/ajo.jpg",
+    "informacion" : "1. El ajo contiene un compuesto llamado alicina, el cual tiene potentes propiedades medicinales  El ajo es una planta perteneciente a la familia Allium (cebolla) y está estrechamente relacionada con las cebollas, los chalotes y los puerros.  Crece en muchas partes del mundo y es un ingrediente popular en la cocina debido a su fuerte olor y delicioso sabor.  Sin embargo, a lo largo de la historia, el ajo se ha usado principalmente por sus propiedades medicinales y beneficiosas para la salud. Su uso fue bien documentado por todas la grandes civilizaciones, entre las que se incluyen los egipcios, los babilonios, los griegos, los romanos y los chinos (2).  La “cabeza” entera recibe el nombre de bulbo de ajo, mientras que a cada segmento se le llama diente. Aproximadamente, hay 10-20 dientes en un solo bulbo de ajo.  La mayoría de los efectos que aporta a la salud se deben a uno de los compuestos de azufre que se forma cuando se pica, machaca o se mastica un diente de ajo. Este compuesto es conocido como alicina y es el responsable del distintivo olor del ajo.  La alicina entra en el cuerpo a través del aparato digestivo y viaja por todo el cuerpo, donde emplea sus potentes efectos biológicos.  Resumiendo: El ajo es una planta de la familia de las cebollas, cultivado por sus propiedades culinarias y efectos saludables. Es rico en un compuesto de azufre llamado alicina, del que se cree es el responsable de todos los beneficios que aporta a nuestra salud.  2. El ajo posee un alto valor nutritivo, pero contiene muy pocas calorías",
+    "nombre" : "Ajo",
+    "precio" : 20
+  }, {
+    "disponible" : 100,
+    "id" : 2,
+    "imagen" : "../../../../assets/arandanos.jpg",
+    "informacion" : "Información: El arándano es un fruto que crece silvestre en zonas frescas del hemisferio norte. Es una baya globosa de color negro azulado que mide unos 6mm de diámetro. Se consume sobre todo en mermeladas, tartas o como acompañamiento de diversos platos. Es un alimento rico en vitaminas que además aporta pocas calorías al organismo.   Seis beneficios de comer arándanos para nuestro cerebro:  1. Reduce el riesgo de demencia.  2. Reduce los efectos del Alzheimer.  3. Evita la inflamación del cerebro. 5. Aumenta la concentración y la memoria. 6. Aumenta la salud mental.",
+    "nombre" : "Arandanos",
+    "precio" : 50
+  }, {
+    "disponible" : 100,
+    "id" : 3,
+    "imagen" : "../../../../assets/brocoli.png",
+    "informacion" : "El bróculi es una hortaliza de la familia de las coles. Su consumo aumenta constantemente, ya que es un alimento sano y que admite múltiples preparaciones. Tiene un agradable sabor y es rico en vitaminas y minerales, además de ser bajo en calorías.",
+    "nombre" : "Brocoli",
+    "precio" : 50
+  }, {
+    "disponible" : 100,
+    "id" : 4,
+    "imagen" : "../../../../assets/calabaza.jpg",
+    "informacion" : "La carne de la calabaza se consume cocinada como verdura, cocida, frita, gratinada, acompañada de salsas y como guarnición de diversos platos. Sin embargo esta carne es algo insípida por lo que se suele condimentar con hierbas aromáticas. Las variedades de invierno son muy utilizadas en repostería y la calabacera se cultiva tanto por su fruto como por sus semillas, las cuales se pueden consumir como frutos secos o extraer de ellas un aceite combustible y culinario. Incluso las hojas y flores de la planta se pueden consumir como verdura.",
+    "nombre" : "Calabaza",
+    "precio" : 45
+  }, {
+    "disponible" : 100,
+    "id" : 5,
+    "imagen" : "../../../../assets/canela.jpg",
+    "informacion" : "El árbol de la canela, conocido como canelo,​ (Cinnamomum zeylanicum o Cinnamomum verum J.Presl) es un árbol de hoja perenne, de 10 a 15 metros de altura, procedente de Sri Lanka. Se aprovecha como especia su corteza interna, que se obtiene pelando y frotando las ramas.",
+    "nombre" : "Canela",
+    "precio" : 25
+  }, {
+    "disponible" : 100,
+    "id" : 6,
+    "imagen" : "../../../../assets/cebolla.jpg",
+    "informacion" : "La cebolla pertenece a la familia de las Liliáceas, y su nombre científico es Allium cepa. Es una planta bianual, es decir, su ciclo dura dos años. Durante el primero forma el bulbo por el que se cultiva, y si se deja un año más en campo florece. Su sistema radicular está formado por un gran número de raíces blancas.",
+    "nombre" : "Cebolla",
+    "precio" : 20
+  }, {
+    "disponible" : 100,
+    "id" : 7,
+    "imagen" : "../../../../assets/fresa.jpg",
+    "informacion" : "La fresa es un fruto de color rojo brillante, suculento y fragante que se obtiene de la planta que recibe su mismo nombre. En Occidente es considerada la \"reina de las frutas\". Además de poderse comer cruda se puede consumir como compota, mermelada,... Es empleada con fines medicinales ya que posee excelentes propiedades que ayudan a preservar la salud.",
+    "nombre" : "Fresa",
+    "precio" : 50
+  }, {
+    "disponible" : 100,
+    "id" : 8,
+    "imagen" : "../../../../assets/kiwi.jpg",
+    "informacion" : "El kiwi es un fruto de forma ovoide, de tamaño variable y recubierto de una piel fina de color marrón, ligeramente vellosa. Puede tener de 4 a 7,5cm de longitud por 3,5 a 5cm de anchura y el peso varía de 30-150g en función de la variedad, las condiciones climáticas y del sistema de cultivo. La pulpa puede ser de color verde de distinta tonalidad según la variedad, tierna, jugosa y de sabor agridulce. Presenta numerosas y pequeñas semillas negras comestibles. El color de la pulpa y el sabor delicado de la misma que recuerda en parte a la uva, a la fresa y a la piña, lo hacen muy agradable.",
+    "nombre" : "kiwi",
+    "precio" : 100
+  }, {
+    "disponible" : 100,
+    "id" : 9,
+    "imagen" : "../../../../assets/limon.jpg",
+    "informacion" : "El limón es redondo y ligeramente alargado, pertenece a la familia de los agrios y por tanto comparte muchas de las características de otras especies de cítricos, como es tener una piel gruesa. La pulpa es color amarillo pálido, jugosa y de sabor ácido dividida en gajos. El color de la corteza es amarillo y especialmente brillante cuando está maduro. Se utiliza en fresco para usos culinarios, y su zumo en la industria de preparados alimenticios. Para la industria farmacéutica es materia prima para la fabricación de numerosos medicamentos, y en casa se puede utilizar para numerosos remedios caseros.",
+    "nombre" : "Limon",
+    "precio" : 3
+  }, {
+    "disponible" : 100,
+    "id" : 10,
+    "imagen" : "../../../../assets/lychee.jpg",
+    "informacion" : "El lichi (Litchi chinensis) es un árbol frutal tropical originario del sur de China, donde se conoce como lichi (pinyin: lìzhī), el sur de Indonesia y el este de Filipinas, donde se conoce como alupag. El lichi es el único representante del género Litchi de la familia de las Sapindaceae.",
+    "nombre" : "Lychee",
+    "precio" : 20
+  }, {
+    "disponible" : 100,
+    "id" : 11,
+    "imagen" : "../../../../assets/maiz.jpg",
+    "informacion" : "El maíz dulce se comercializa bien en forma de ‘mazorca’ o bien como granos sueltos, frescos en conserva o congelados. Los granos de maíz son normalmente de color amarillo brillante cuando están maduros, jugosos, tienen gran valor nutritivo y se destinan a elaborar distintos productos como son las conocidas ‘palomitas de maíz’, etc. El maíz dulce se utiliza mucho como ingrediente en ensaladas, salsas y platos fríos.",
+    "nombre" : "Maiz",
+    "precio" : 300
+  }, {
+    "disponible" : 100,
+    "id" : 12,
+    "imagen" : "../../../../assets/manzana.jpg",
+    "informacion" : "La manzana es el fruto ideal para tomar a cualquier hora y participa positivamente en la consecución del equilibrio alimentario. La piel puede ser de color verde, amarilla o rojiza, y la carne va desde un sabor agrio hasta el dulce. Es uno de los frutos más consumidos en el mundo. La gran cantidad de variedades existentes hacen que se encuentren al alcance del consumidor durante todo el año.",
+    "nombre" : "Manzana",
+    "precio" : 50
+  }, {
+    "disponible" : 100,
+    "id" : 13,
+    "imagen" : "../../../../assets/naranja.jpg",
+    "informacion" : "La naranja es un fruto redondo, color naranja, consumido mayoritariamente en invierno. La pulpa del interior es también anaranjada y está formada por pequeñas bolsitas llenas de zumo. La naranja se usa para consumo en fresco y, para la industria, principalmente en zumo.",
+    "nombre" : "naranja",
+    "precio" : 30
+  }, {
+    "disponible" : 0,
+    "id" : 14,
+    "imagen" : "../../../../assets/papa.jpg",
+    "informacion" : "La papa es una especie de planta herbácea perteneciente al género Solanum de la familia de las solanáceas originaria de Sudamérica1​ y cultivada por todo el mundo por sus tubérculos comestibles. Fue domesticada en el altiplano andino por sus habitantes hace unos 8000 años,1​2​ y más tarde fue llevada a Europa por los conquistadores españoles como una curiosidad botánica más que como una planta alimenticia. Su consumo fue creciendo y su cultivo se expandió a todo el mundo hasta convertirse hoy día en uno de los principales alimentos para el ser humano.",
+    "nombre" : "papa",
+    "precio" : 30
+  }, {
+    "disponible" : 100,
+    "id" : 15,
+    "imagen" : "../../../../assets/pasta.jpg",
+    "informacion" : "La pasta es un conjunto de alimentos preparados con una masa cuyo ingrediente básico es la harina, mezclada con agua, y a la cual se puede añadir sal, huevo u otros ingredientes, conformando un producto que generalmente se cuece en agua hirviendo. Aunque cualquier harina sirve para este propósito, la mayor parte de las recetas occidentales siguen la tradición italiana y emplean el trigo candeal (Triticum durum); en Oriente son habituales otros materiales, como la harina de alforfón (Fagopyrum esculentum) o de arroz (Oryza sativa).",
+    "nombre" : "Pasta",
+    "precio" : 70
+  }, {
+    "disponible" : 100,
+    "id" : 16,
+    "imagen" : "../../../../assets/pimienta.jpg",
+    "informacion" : "La pimienta es una especie de la familia de las piperáceas, cultivada por su fruto, que se emplea seco como especia. El fruto es una drupa (aproximadamente 5 mm) que se puede usar entera o en polvo obteniendo variedades como la negra, blanca o verde, con la única diferencia del grado de maduración del grano.",
+    "nombre" : "Pimienta",
+    "precio" : 15
+  }, {
+    "disponible" : 100,
+    "id" : 17,
+    "imagen" : "../../../../assets/repollo.jpg",
+    "informacion" : "El repollo, col repollo o col cerrada (Brassica oleracea var. capitata L.) es una planta comestible de la familia de las Brasicáceas, y una herbácea bienal, cultivada como anual, cuyas hojas lisas forman un característico cogollo compacto. También se le conoce como repollo blanco por su característico color verde pálido, para diferenciarla de la lombarda que se le conoce como repollo morado.",
+    "nombre" : "Repollo",
+    "precio" : 20
+  }, {
+    "disponible" : 100,
+    "id" : 18,
+    "imagen" : "../../../../assets/tomate.jpg",
+    "informacion" : "El tomate es una especie de planta herbácea del género Solanum de la familia Solanaceae; es nativa de Centro y Sudamérica y su uso como comida se habría originado en México hace unos 2500 años.5​ El nombre proviene de la palabra náhuatl tomatl.Es cultivada en el mundo entero para su consumo tanto fresco como procesado de diferentes modos (salsa, puré, zumo, deshidratado, enlatado).",
+    "nombre" : "Tomate",
+    "precio" : 5
+  }, {
+    "disponible" : 100,
+    "id" : 19,
+    "imagen" : "../../../../assets/zanahoria.jpg",
+    "informacion" : "La zanahoria es una hortaliza que pertenece a la familia de las umbelíferas, también denominadas apiáceas, y considerada la especie más importante y de mayor consumo dentro de esta familia. Es la forma domesticada de la zanahoria silvestre, oriunda de Europa y Asia sudoccidental. Se cultiva por su raíz mucho más grande, sabrosa y de textura menos fibrosa, pero continúa siendo la misma especie.",
+    "nombre" : "Zanahoria",
+    "precio" : 45
+  } ],
+  "usuarios" : [ {
+    "email" : "ingmvalle@yahoo.com",
+    "password" : "123"
+  } ]
+}
